@@ -1,6 +1,7 @@
 ---
 layout: common
 title: Submit Report
+permalink: /report/index.html
 ---
 
 ## Using quakemaps.org
@@ -26,7 +27,7 @@ Go to the webpage [quakemaps.org](quakemaps.org) and click on "Submit A Report".
 
 If something is not clear, please contact us. We're ready to help you.
 
-![How to submit a report](images/submit_report.jpg)
+![How to submit a report](/images/submit_report.jpg)
 
 1. Enter a Title, example "Volunteers needed for transporting medicine", or "A house destroyed near PlaceName"
 1. Add description, example, what skills the volunteer has, how many people are needed, how much time the work will require, how many packets of medicine are required. Be as specific as possible, otherwise it will be difficult for others to help, and you may be wasting their time. But don't write a long description.
@@ -40,10 +41,10 @@ If something is not clear, please contact us. We're ready to help you.
 
 ### Editing location and map
 
-![How to use the map](images/submit_report1.jpg)
+![How to use the map](/images/submit_report1.jpg)
 
  * You can type the name of the place in the box and click on "Find Location". If the system recognizes your place, it will automatically fill in the box below and locate the place on the map above
  * You can use your mouse and drag the map to find your place. You can zoom in or our using + or - sign. The red sign points at the exact place you're trying to locate.
  * If you want to mark a larger area, use one of these tools shown in the image below. First pick a box, example the one on the left. Then click on the map, drag your mouse, click on other points. When you're done, double click. It will create a surface like you see on the picture. If you want to delete the last marking, or all markings, use the buttons on the right "Delete last", "Delete selected", etc.
 
- ![How to draw a map](images/submit_report2.jpg)
+ ![How to draw a map](/images/submit_report2.jpg)
