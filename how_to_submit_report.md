@@ -34,12 +34,16 @@ If something is not clear, please contact us. We're ready to help you.
 1. How sure are you about the location? Choose this in "Location Accuracy."
 1. If you have a phone number that can be contacted for more information on your report, enter it
 1. Enter your name and email
-1. Enter the location in the map. Here's how to use this feature:
-  * You can type the name of the place in this box and click on "Find Location". If the system recognizes your place, it will automatically fill in the box below and locate the place on the map above
-  * You can use your mouse and drag the map to find your place. You can zoom in or our using + or - sign. The red sign points at the exact place you're trying to locate.
-  * If you want to mark a larger area, use one of these tools. First pick a box, example the one on the left. Then click on the map, drag your mouse, click on other points. When you're done, double click. It will create a surface like you see on the picture. If you want to delete the last marking, or all markings, use the buttons on the right "Delete last", "Delete selected", etc.
+1. Enter the location in the map. There are different ways to add location. See the section below if you need more help.
 1. If you have a picture, upload it
 1. Submit the report
 
+### Editing location and map
+
 ![How to use the map](images/submit_report1.jpg)
-![How to draw a map](images/submit_report2.jpg)
+
+ * You can type the name of the place in the box and click on "Find Location". If the system recognizes your place, it will automatically fill in the box below and locate the place on the map above
+ * You can use your mouse and drag the map to find your place. You can zoom in or our using + or - sign. The red sign points at the exact place you're trying to locate.
+ * If you want to mark a larger area, use one of these tools shown in the image below. First pick a box, example the one on the left. Then click on the map, drag your mouse, click on other points. When you're done, double click. It will create a surface like you see on the picture. If you want to delete the last marking, or all markings, use the buttons on the right "Delete last", "Delete selected", etc.
+
+ ![How to draw a map](images/submit_report2.jpg)
