@@ -1,7 +1,7 @@
 ---
 layout: common
-title: Submit Report
-permalink: /report/begin.html
+title: New Volunteer
+permalink: /start/index.html
 ---
 
 ## How to start volunteering
