@@ -14,7 +14,7 @@ We have a central tool where all information will be aggregated. It can be found
 
 First, to understand what sort of help is required, please read the following pages:
 
-* (Our home page)[index.html]
+* [Our home page](index.html)
 * (What needs attention)
 * (Information on Online Volunteering)
 * (Information on on-ground volunteering)
