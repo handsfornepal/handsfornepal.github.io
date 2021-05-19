@@ -8,7 +8,7 @@ google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Global non-profit group working together for Nepal. We're a group of volunteers which invludes scientists, practitioners, engineers, policy-makers, and industrial partners.
+description: Global non-profit group working together for Nepal. We're a group of volunteers which includes scientists, practitioners, engineers, policy-makers, and industrial partners.
 author:
   name:
   email:
